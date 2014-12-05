@@ -1,0 +1,12 @@
+{
+	"name": "senseJS",
+	"version": "1.0.1",
+	"author": "Ian Calderon <icalderon@saymedia.com>",
+	"devDependencies": {
+		"grunt": "~0.4.4",
+	   	"grunt-contrib-jshint": "latest",
+	    "jshint-stylish": "latest",
+	    "grunt-contrib-uglify": "latest"
+	}
+
+}
