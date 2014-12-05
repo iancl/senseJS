@@ -7,7 +7,7 @@ SenseJS help you determine if the user has swiped or dragged the finger over the
 Notes
 ----
 - Mobile Support: Android 2.1+, iOS 3.2+, Blackberry OS 7.0+
-- Desktop Browser Support: Chrome 4.0+, Firefox 3.5+, Safari 3.5+, IE 8.0+
+- Desktop Browser Support: Chrome 4.0+, Firefox 3.5+, Safari 3.5+, IE 10+
 - Version 1.0.1
 
 Pending
